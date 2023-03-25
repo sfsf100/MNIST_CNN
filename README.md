@@ -15,5 +15,5 @@ Detect result:
 
 
 
-![image](https://github.com/sfsf100/MNIST_CNN/blob/f72c094ff57d045d32c5c0fadc72f849a24d740d/IMG/00333.PN)
+![image](https://github.com/sfsf100/MNIST_CNN/blob/0dc003b52b5ff7a3fa79f94cf998909b1f9243a5/IMG/00333.PNG)
 
